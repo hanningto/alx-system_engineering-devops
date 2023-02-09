@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwxr---r-- hello
+700 hello
